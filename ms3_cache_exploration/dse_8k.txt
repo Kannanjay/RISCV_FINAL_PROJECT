@@ -1,0 +1,20 @@
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2541024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 264988
+#Cache accesses    = 249088
+#Cache hits        = 248929
+#Cache misses      =   159
+#Cache hit rate    = 0.99936
+#Cache hit rate percentage    = 99.93617
+Cache Size: 8192B, Set Bits: 0, Associativity: 8, Block Bits: 10, Policy: LRU
+
+-s 0;
+-E 8;
+-L;
+-b 10;

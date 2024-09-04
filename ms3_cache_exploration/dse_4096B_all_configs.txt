@@ -1,0 +1,2912 @@
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3088124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 812088
+#Cache accesses    = 249088
+#Cache hits        = 243458
+#Cache misses      =  5630
+#Cache hit rate    = 0.97740
+#Cache hit rate percentage    = 97.73975
+Cache Size: 4096B, Set Bits: 0, Associativity: 4096, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3088124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 812088
+#Cache accesses    = 249088
+#Cache hits        = 243458
+#Cache misses      =  5630
+#Cache hit rate    = 0.97740
+#Cache hit rate percentage    = 97.73975
+Cache Size: 4096B, Set Bits: 0, Associativity: 4096, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4842124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2566088
+#Cache accesses    = 249088
+#Cache hits        = 225918
+#Cache misses      = 23170
+#Cache hit rate    = 0.90698
+#Cache hit rate percentage    = 90.69807
+Cache Size: 4096B, Set Bits: 1, Associativity: 2048, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6488824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4212788
+#Cache accesses    = 249088
+#Cache hits        = 209451
+#Cache misses      = 39637
+#Cache hit rate    = 0.84087
+#Cache hit rate percentage    = 84.08715
+Cache Size: 4096B, Set Bits: 1, Associativity: 2048, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18360724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16084688
+#Cache accesses    = 249088
+#Cache hits        = 90732
+#Cache misses      = 158356
+#Cache hit rate    = 0.36426
+#Cache hit rate percentage    = 36.42568
+Cache Size: 4096B, Set Bits: 2, Associativity: 1024, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 2, Associativity: 1024, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18378724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16102688
+#Cache accesses    = 249088
+#Cache hits        = 90552
+#Cache misses      = 158536
+#Cache hit rate    = 0.36353
+#Cache hit rate percentage    = 36.35342
+Cache Size: 4096B, Set Bits: 3, Associativity: 512, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 3, Associativity: 512, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18407124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16131088
+#Cache accesses    = 249088
+#Cache hits        = 90268
+#Cache misses      = 158820
+#Cache hit rate    = 0.36239
+#Cache hit rate percentage    = 36.23940
+Cache Size: 4096B, Set Bits: 4, Associativity: 256, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281288
+#Cache accesses    = 249088
+#Cache hits        = 208766
+#Cache misses      = 40322
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81215
+Cache Size: 4096B, Set Bits: 4, Associativity: 256, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18474124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16198088
+#Cache accesses    = 249088
+#Cache hits        = 89598
+#Cache misses      = 159490
+#Cache hit rate    = 0.35970
+#Cache hit rate percentage    = 35.97042
+Cache Size: 4096B, Set Bits: 5, Associativity: 128, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281288
+#Cache accesses    = 249088
+#Cache hits        = 208766
+#Cache misses      = 40322
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81215
+Cache Size: 4096B, Set Bits: 5, Associativity: 128, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18612624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16336588
+#Cache accesses    = 249088
+#Cache hits        = 88213
+#Cache misses      = 160875
+#Cache hit rate    = 0.35414
+#Cache hit rate percentage    = 35.41439
+Cache Size: 4096B, Set Bits: 6, Associativity: 64, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281188
+#Cache accesses    = 249088
+#Cache hits        = 208767
+#Cache misses      = 40321
+#Cache hit rate    = 0.83813
+#Cache hit rate percentage    = 83.81255
+Cache Size: 4096B, Set Bits: 6, Associativity: 64, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 14455924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 12179888
+#Cache accesses    = 249088
+#Cache hits        = 129780
+#Cache misses      = 119308
+#Cache hit rate    = 0.52102
+#Cache hit rate percentage    = 52.10207
+Cache Size: 4096B, Set Bits: 7, Associativity: 32, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281388
+#Cache accesses    = 249088
+#Cache hits        = 208765
+#Cache misses      = 40323
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81175
+Cache Size: 4096B, Set Bits: 7, Associativity: 32, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5540424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3264388
+#Cache accesses    = 249088
+#Cache hits        = 218935
+#Cache misses      = 30153
+#Cache hit rate    = 0.87895
+#Cache hit rate percentage    = 87.89464
+Cache Size: 4096B, Set Bits: 8, Associativity: 16, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281188
+#Cache accesses    = 249088
+#Cache hits        = 208767
+#Cache misses      = 40321
+#Cache hit rate    = 0.83813
+#Cache hit rate percentage    = 83.81255
+Cache Size: 4096B, Set Bits: 8, Associativity: 16, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5381324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3105288
+#Cache accesses    = 249088
+#Cache hits        = 220526
+#Cache misses      = 28562
+#Cache hit rate    = 0.88533
+#Cache hit rate percentage    = 88.53337
+Cache Size: 4096B, Set Bits: 9, Associativity: 8, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6549124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4273088
+#Cache accesses    = 249088
+#Cache hits        = 208848
+#Cache misses      = 40240
+#Cache hit rate    = 0.83845
+#Cache hit rate percentage    = 83.84507
+Cache Size: 4096B, Set Bits: 9, Associativity: 8, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5636424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3360388
+#Cache accesses    = 249088
+#Cache hits        = 217975
+#Cache misses      = 31113
+#Cache hit rate    = 0.87509
+#Cache hit rate percentage    = 87.50923
+Cache Size: 4096B, Set Bits: 10, Associativity: 4, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 10, Associativity: 4, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5891924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3615888
+#Cache accesses    = 249088
+#Cache hits        = 215420
+#Cache misses      = 33668
+#Cache hit rate    = 0.86483
+#Cache hit rate percentage    = 86.48349
+Cache Size: 4096B, Set Bits: 11, Associativity: 2, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6315724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4039688
+#Cache accesses    = 249088
+#Cache hits        = 211182
+#Cache misses      = 37906
+#Cache hit rate    = 0.84782
+#Cache hit rate percentage    = 84.78209
+Cache Size: 4096B, Set Bits: 11, Associativity: 2, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6750024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4473988
+#Cache accesses    = 249088
+#Cache hits        = 206839
+#Cache misses      = 42249
+#Cache hit rate    = 0.83039
+#Cache hit rate percentage    = 83.03852
+Cache Size: 4096B, Set Bits: 12, Associativity: 1, Block Bits: 0, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6750024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4473988
+#Cache accesses    = 249088
+#Cache hits        = 206839
+#Cache misses      = 42249
+#Cache hit rate    = 0.83039
+#Cache hit rate percentage    = 83.03852
+Cache Size: 4096B, Set Bits: 12, Associativity: 1, Block Bits: 0, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4842124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2566088
+#Cache accesses    = 249088
+#Cache hits        = 225918
+#Cache misses      = 23170
+#Cache hit rate    = 0.90698
+#Cache hit rate percentage    = 90.69807
+Cache Size: 4096B, Set Bits: 0, Associativity: 2048, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6488824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4212788
+#Cache accesses    = 249088
+#Cache hits        = 209451
+#Cache misses      = 39637
+#Cache hit rate    = 0.84087
+#Cache hit rate percentage    = 84.08715
+Cache Size: 4096B, Set Bits: 0, Associativity: 2048, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18360724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16084688
+#Cache accesses    = 249088
+#Cache hits        = 90732
+#Cache misses      = 158356
+#Cache hit rate    = 0.36426
+#Cache hit rate percentage    = 36.42568
+Cache Size: 4096B, Set Bits: 1, Associativity: 1024, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 1, Associativity: 1024, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18378724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16102688
+#Cache accesses    = 249088
+#Cache hits        = 90552
+#Cache misses      = 158536
+#Cache hit rate    = 0.36353
+#Cache hit rate percentage    = 36.35342
+Cache Size: 4096B, Set Bits: 2, Associativity: 512, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 2, Associativity: 512, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18407124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16131088
+#Cache accesses    = 249088
+#Cache hits        = 90268
+#Cache misses      = 158820
+#Cache hit rate    = 0.36239
+#Cache hit rate percentage    = 36.23940
+Cache Size: 4096B, Set Bits: 3, Associativity: 256, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281288
+#Cache accesses    = 249088
+#Cache hits        = 208766
+#Cache misses      = 40322
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81215
+Cache Size: 4096B, Set Bits: 3, Associativity: 256, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18474124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16198088
+#Cache accesses    = 249088
+#Cache hits        = 89598
+#Cache misses      = 159490
+#Cache hit rate    = 0.35970
+#Cache hit rate percentage    = 35.97042
+Cache Size: 4096B, Set Bits: 4, Associativity: 128, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281288
+#Cache accesses    = 249088
+#Cache hits        = 208766
+#Cache misses      = 40322
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81215
+Cache Size: 4096B, Set Bits: 4, Associativity: 128, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18612624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16336588
+#Cache accesses    = 249088
+#Cache hits        = 88213
+#Cache misses      = 160875
+#Cache hit rate    = 0.35414
+#Cache hit rate percentage    = 35.41439
+Cache Size: 4096B, Set Bits: 5, Associativity: 64, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281188
+#Cache accesses    = 249088
+#Cache hits        = 208767
+#Cache misses      = 40321
+#Cache hit rate    = 0.83813
+#Cache hit rate percentage    = 83.81255
+Cache Size: 4096B, Set Bits: 5, Associativity: 64, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 14455924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 12179888
+#Cache accesses    = 249088
+#Cache hits        = 129780
+#Cache misses      = 119308
+#Cache hit rate    = 0.52102
+#Cache hit rate percentage    = 52.10207
+Cache Size: 4096B, Set Bits: 6, Associativity: 32, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281388
+#Cache accesses    = 249088
+#Cache hits        = 208765
+#Cache misses      = 40323
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81175
+Cache Size: 4096B, Set Bits: 6, Associativity: 32, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5540424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3264388
+#Cache accesses    = 249088
+#Cache hits        = 218935
+#Cache misses      = 30153
+#Cache hit rate    = 0.87895
+#Cache hit rate percentage    = 87.89464
+Cache Size: 4096B, Set Bits: 7, Associativity: 16, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281188
+#Cache accesses    = 249088
+#Cache hits        = 208767
+#Cache misses      = 40321
+#Cache hit rate    = 0.83813
+#Cache hit rate percentage    = 83.81255
+Cache Size: 4096B, Set Bits: 7, Associativity: 16, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5381324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3105288
+#Cache accesses    = 249088
+#Cache hits        = 220526
+#Cache misses      = 28562
+#Cache hit rate    = 0.88533
+#Cache hit rate percentage    = 88.53337
+Cache Size: 4096B, Set Bits: 8, Associativity: 8, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6549124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4273088
+#Cache accesses    = 249088
+#Cache hits        = 208848
+#Cache misses      = 40240
+#Cache hit rate    = 0.83845
+#Cache hit rate percentage    = 83.84507
+Cache Size: 4096B, Set Bits: 8, Associativity: 8, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5636424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3360388
+#Cache accesses    = 249088
+#Cache hits        = 217975
+#Cache misses      = 31113
+#Cache hit rate    = 0.87509
+#Cache hit rate percentage    = 87.50923
+Cache Size: 4096B, Set Bits: 9, Associativity: 4, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 9, Associativity: 4, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5891924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3615888
+#Cache accesses    = 249088
+#Cache hits        = 215420
+#Cache misses      = 33668
+#Cache hit rate    = 0.86483
+#Cache hit rate percentage    = 86.48349
+Cache Size: 4096B, Set Bits: 10, Associativity: 2, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6315724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4039688
+#Cache accesses    = 249088
+#Cache hits        = 211182
+#Cache misses      = 37906
+#Cache hit rate    = 0.84782
+#Cache hit rate percentage    = 84.78209
+Cache Size: 4096B, Set Bits: 10, Associativity: 2, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6750024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4473988
+#Cache accesses    = 249088
+#Cache hits        = 206839
+#Cache misses      = 42249
+#Cache hit rate    = 0.83039
+#Cache hit rate percentage    = 83.03852
+Cache Size: 4096B, Set Bits: 11, Associativity: 1, Block Bits: 1, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6750024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4473988
+#Cache accesses    = 249088
+#Cache hits        = 206839
+#Cache misses      = 42249
+#Cache hit rate    = 0.83039
+#Cache hit rate percentage    = 83.03852
+Cache Size: 4096B, Set Bits: 11, Associativity: 1, Block Bits: 1, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18360724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16084688
+#Cache accesses    = 249088
+#Cache hits        = 90732
+#Cache misses      = 158356
+#Cache hit rate    = 0.36426
+#Cache hit rate percentage    = 36.42568
+Cache Size: 4096B, Set Bits: 0, Associativity: 1024, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 0, Associativity: 1024, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18378724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16102688
+#Cache accesses    = 249088
+#Cache hits        = 90552
+#Cache misses      = 158536
+#Cache hit rate    = 0.36353
+#Cache hit rate percentage    = 36.35342
+Cache Size: 4096B, Set Bits: 1, Associativity: 512, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 1, Associativity: 512, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18407124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16131088
+#Cache accesses    = 249088
+#Cache hits        = 90268
+#Cache misses      = 158820
+#Cache hit rate    = 0.36239
+#Cache hit rate percentage    = 36.23940
+Cache Size: 4096B, Set Bits: 2, Associativity: 256, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281288
+#Cache accesses    = 249088
+#Cache hits        = 208766
+#Cache misses      = 40322
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81215
+Cache Size: 4096B, Set Bits: 2, Associativity: 256, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18474124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16198088
+#Cache accesses    = 249088
+#Cache hits        = 89598
+#Cache misses      = 159490
+#Cache hit rate    = 0.35970
+#Cache hit rate percentage    = 35.97042
+Cache Size: 4096B, Set Bits: 3, Associativity: 128, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281288
+#Cache accesses    = 249088
+#Cache hits        = 208766
+#Cache misses      = 40322
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81215
+Cache Size: 4096B, Set Bits: 3, Associativity: 128, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 18612624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 16336588
+#Cache accesses    = 249088
+#Cache hits        = 88213
+#Cache misses      = 160875
+#Cache hit rate    = 0.35414
+#Cache hit rate percentage    = 35.41439
+Cache Size: 4096B, Set Bits: 4, Associativity: 64, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281188
+#Cache accesses    = 249088
+#Cache hits        = 208767
+#Cache misses      = 40321
+#Cache hit rate    = 0.83813
+#Cache hit rate percentage    = 83.81255
+Cache Size: 4096B, Set Bits: 4, Associativity: 64, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 14455924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 12179888
+#Cache accesses    = 249088
+#Cache hits        = 129780
+#Cache misses      = 119308
+#Cache hit rate    = 0.52102
+#Cache hit rate percentage    = 52.10207
+Cache Size: 4096B, Set Bits: 5, Associativity: 32, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281388
+#Cache accesses    = 249088
+#Cache hits        = 208765
+#Cache misses      = 40323
+#Cache hit rate    = 0.83812
+#Cache hit rate percentage    = 83.81175
+Cache Size: 4096B, Set Bits: 5, Associativity: 32, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5540424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3264388
+#Cache accesses    = 249088
+#Cache hits        = 218935
+#Cache misses      = 30153
+#Cache hit rate    = 0.87895
+#Cache hit rate percentage    = 87.89464
+Cache Size: 4096B, Set Bits: 6, Associativity: 16, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281188
+#Cache accesses    = 249088
+#Cache hits        = 208767
+#Cache misses      = 40321
+#Cache hit rate    = 0.83813
+#Cache hit rate percentage    = 83.81255
+Cache Size: 4096B, Set Bits: 6, Associativity: 16, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5381324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3105288
+#Cache accesses    = 249088
+#Cache hits        = 220526
+#Cache misses      = 28562
+#Cache hit rate    = 0.88533
+#Cache hit rate percentage    = 88.53337
+Cache Size: 4096B, Set Bits: 7, Associativity: 8, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6549124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4273088
+#Cache accesses    = 249088
+#Cache hits        = 208848
+#Cache misses      = 40240
+#Cache hit rate    = 0.83845
+#Cache hit rate percentage    = 83.84507
+Cache Size: 4096B, Set Bits: 7, Associativity: 8, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5636424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3360388
+#Cache accesses    = 249088
+#Cache hits        = 217975
+#Cache misses      = 31113
+#Cache hit rate    = 0.87509
+#Cache hit rate percentage    = 87.50923
+Cache Size: 4096B, Set Bits: 8, Associativity: 4, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6557524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4281488
+#Cache accesses    = 249088
+#Cache hits        = 208764
+#Cache misses      = 40324
+#Cache hit rate    = 0.83811
+#Cache hit rate percentage    = 83.81134
+Cache Size: 4096B, Set Bits: 8, Associativity: 4, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5891924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3615888
+#Cache accesses    = 249088
+#Cache hits        = 215420
+#Cache misses      = 33668
+#Cache hit rate    = 0.86483
+#Cache hit rate percentage    = 86.48349
+Cache Size: 4096B, Set Bits: 9, Associativity: 2, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6315724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4039688
+#Cache accesses    = 249088
+#Cache hits        = 211182
+#Cache misses      = 37906
+#Cache hit rate    = 0.84782
+#Cache hit rate percentage    = 84.78209
+Cache Size: 4096B, Set Bits: 9, Associativity: 2, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6750024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4473988
+#Cache accesses    = 249088
+#Cache hits        = 206839
+#Cache misses      = 42249
+#Cache hit rate    = 0.83039
+#Cache hit rate percentage    = 83.03852
+Cache Size: 4096B, Set Bits: 10, Associativity: 1, Block Bits: 2, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6750024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4473988
+#Cache accesses    = 249088
+#Cache hits        = 206839
+#Cache misses      = 42249
+#Cache hit rate    = 0.83039
+#Cache hit rate percentage    = 83.03852
+Cache Size: 4096B, Set Bits: 10, Associativity: 1, Block Bits: 2, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 11207624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 8931588
+#Cache accesses    = 249088
+#Cache hits        = 162263
+#Cache misses      = 86825
+#Cache hit rate    = 0.65143
+#Cache hit rate percentage    = 65.14284
+Cache Size: 4096B, Set Bits: 0, Associativity: 512, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4750724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2474688
+#Cache accesses    = 249088
+#Cache hits        = 226832
+#Cache misses      = 22256
+#Cache hit rate    = 0.91065
+#Cache hit rate percentage    = 91.06501
+Cache Size: 4096B, Set Bits: 0, Associativity: 512, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 11223224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 8947188
+#Cache accesses    = 249088
+#Cache hits        = 162107
+#Cache misses      = 86981
+#Cache hit rate    = 0.65080
+#Cache hit rate percentage    = 65.08021
+Cache Size: 4096B, Set Bits: 1, Associativity: 256, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4750724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2474688
+#Cache accesses    = 249088
+#Cache hits        = 226832
+#Cache misses      = 22256
+#Cache hit rate    = 0.91065
+#Cache hit rate percentage    = 91.06501
+Cache Size: 4096B, Set Bits: 1, Associativity: 256, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 11251524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 8975488
+#Cache accesses    = 249088
+#Cache hits        = 161824
+#Cache misses      = 87264
+#Cache hit rate    = 0.64967
+#Cache hit rate percentage    = 64.96660
+Cache Size: 4096B, Set Bits: 2, Associativity: 128, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4750724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2474688
+#Cache accesses    = 249088
+#Cache hits        = 226832
+#Cache misses      = 22256
+#Cache hit rate    = 0.91065
+#Cache hit rate percentage    = 91.06501
+Cache Size: 4096B, Set Bits: 2, Associativity: 128, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 11291724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 9015688
+#Cache accesses    = 249088
+#Cache hits        = 161422
+#Cache misses      = 87666
+#Cache hit rate    = 0.64805
+#Cache hit rate percentage    = 64.80521
+Cache Size: 4096B, Set Bits: 3, Associativity: 64, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4750824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2474788
+#Cache accesses    = 249088
+#Cache hits        = 226831
+#Cache misses      = 22257
+#Cache hit rate    = 0.91065
+#Cache hit rate percentage    = 91.06460
+Cache Size: 4096B, Set Bits: 3, Associativity: 64, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 9410824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 7134788
+#Cache accesses    = 249088
+#Cache hits        = 180231
+#Cache misses      = 68857
+#Cache hit rate    = 0.72356
+#Cache hit rate percentage    = 72.35636
+Cache Size: 4096B, Set Bits: 4, Associativity: 32, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4750824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2474788
+#Cache accesses    = 249088
+#Cache hits        = 226831
+#Cache misses      = 22257
+#Cache hit rate    = 0.91065
+#Cache hit rate percentage    = 91.06460
+Cache Size: 4096B, Set Bits: 4, Associativity: 32, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4867224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2591188
+#Cache accesses    = 249088
+#Cache hits        = 225667
+#Cache misses      = 23421
+#Cache hit rate    = 0.90597
+#Cache hit rate percentage    = 90.59730
+Cache Size: 4096B, Set Bits: 5, Associativity: 16, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4749724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2473688
+#Cache accesses    = 249088
+#Cache hits        = 226842
+#Cache misses      = 22246
+#Cache hit rate    = 0.91069
+#Cache hit rate percentage    = 91.06902
+Cache Size: 4096B, Set Bits: 5, Associativity: 16, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4544224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2268188
+#Cache accesses    = 249088
+#Cache hits        = 228897
+#Cache misses      = 20191
+#Cache hit rate    = 0.91894
+#Cache hit rate percentage    = 91.89403
+Cache Size: 4096B, Set Bits: 6, Associativity: 8, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4754024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2477988
+#Cache accesses    = 249088
+#Cache hits        = 226799
+#Cache misses      = 22289
+#Cache hit rate    = 0.91052
+#Cache hit rate percentage    = 91.05176
+Cache Size: 4096B, Set Bits: 6, Associativity: 8, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4685224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2409188
+#Cache accesses    = 249088
+#Cache hits        = 227487
+#Cache misses      = 21601
+#Cache hit rate    = 0.91328
+#Cache hit rate percentage    = 91.32796
+Cache Size: 4096B, Set Bits: 7, Associativity: 4, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4755224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2479188
+#Cache accesses    = 249088
+#Cache hits        = 226787
+#Cache misses      = 22301
+#Cache hit rate    = 0.91047
+#Cache hit rate percentage    = 91.04694
+Cache Size: 4096B, Set Bits: 7, Associativity: 4, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4990624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2714588
+#Cache accesses    = 249088
+#Cache hits        = 224433
+#Cache misses      = 24655
+#Cache hit rate    = 0.90102
+#Cache hit rate percentage    = 90.10189
+Cache Size: 4096B, Set Bits: 8, Associativity: 2, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5379124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3103088
+#Cache accesses    = 249088
+#Cache hits        = 220548
+#Cache misses      = 28540
+#Cache hit rate    = 0.88542
+#Cache hit rate percentage    = 88.54220
+Cache Size: 4096B, Set Bits: 8, Associativity: 2, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5509824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3233788
+#Cache accesses    = 249088
+#Cache hits        = 219241
+#Cache misses      = 29847
+#Cache hit rate    = 0.88017
+#Cache hit rate percentage    = 88.01749
+Cache Size: 4096B, Set Bits: 9, Associativity: 1, Block Bits: 3, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5509824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 3233788
+#Cache accesses    = 249088
+#Cache hits        = 219241
+#Cache misses      = 29847
+#Cache hit rate    = 0.88017
+#Cache hit rate percentage    = 88.01749
+Cache Size: 4096B, Set Bits: 9, Associativity: 1, Block Bits: 3, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 7639424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 5363388
+#Cache accesses    = 249088
+#Cache hits        = 197945
+#Cache misses      = 51143
+#Cache hit rate    = 0.79468
+#Cache hit rate percentage    = 79.46790
+Cache Size: 4096B, Set Bits: 0, Associativity: 256, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3638724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1362688
+#Cache accesses    = 249088
+#Cache hits        = 237952
+#Cache misses      = 11136
+#Cache hit rate    = 0.95529
+#Cache hit rate percentage    = 95.52929
+Cache Size: 4096B, Set Bits: 0, Associativity: 256, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 7546224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 5270188
+#Cache accesses    = 249088
+#Cache hits        = 198877
+#Cache misses      = 50211
+#Cache hit rate    = 0.79842
+#Cache hit rate percentage    = 79.84206
+Cache Size: 4096B, Set Bits: 1, Associativity: 128, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3638824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1362788
+#Cache accesses    = 249088
+#Cache hits        = 237951
+#Cache misses      = 11137
+#Cache hit rate    = 0.95529
+#Cache hit rate percentage    = 95.52889
+Cache Size: 4096B, Set Bits: 1, Associativity: 128, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 7483724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 5207688
+#Cache accesses    = 249088
+#Cache hits        = 199502
+#Cache misses      = 49586
+#Cache hit rate    = 0.80093
+#Cache hit rate percentage    = 80.09298
+Cache Size: 4096B, Set Bits: 2, Associativity: 64, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3638824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1362788
+#Cache accesses    = 249088
+#Cache hits        = 237951
+#Cache misses      = 11137
+#Cache hit rate    = 0.95529
+#Cache hit rate percentage    = 95.52889
+Cache Size: 4096B, Set Bits: 2, Associativity: 64, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 6616524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 4340488
+#Cache accesses    = 249088
+#Cache hits        = 208174
+#Cache misses      = 40914
+#Cache hit rate    = 0.83574
+#Cache hit rate percentage    = 83.57448
+Cache Size: 4096B, Set Bits: 3, Associativity: 32, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3638824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1362788
+#Cache accesses    = 249088
+#Cache hits        = 237951
+#Cache misses      = 11137
+#Cache hit rate    = 0.95529
+#Cache hit rate percentage    = 95.52889
+Cache Size: 4096B, Set Bits: 3, Associativity: 32, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4206324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1930288
+#Cache accesses    = 249088
+#Cache hits        = 232276
+#Cache misses      = 16812
+#Cache hit rate    = 0.93251
+#Cache hit rate percentage    = 93.25058
+Cache Size: 4096B, Set Bits: 4, Associativity: 16, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3638324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1362288
+#Cache accesses    = 249088
+#Cache hits        = 237956
+#Cache misses      = 11132
+#Cache hit rate    = 0.95531
+#Cache hit rate percentage    = 95.53090
+Cache Size: 4096B, Set Bits: 4, Associativity: 16, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3903924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1627888
+#Cache accesses    = 249088
+#Cache hits        = 235300
+#Cache misses      = 13788
+#Cache hit rate    = 0.94465
+#Cache hit rate percentage    = 94.46461
+Cache Size: 4096B, Set Bits: 5, Associativity: 8, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3640424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1364388
+#Cache accesses    = 249088
+#Cache hits        = 237935
+#Cache misses      = 11153
+#Cache hit rate    = 0.95522
+#Cache hit rate percentage    = 95.52247
+Cache Size: 4096B, Set Bits: 5, Associativity: 8, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3985624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1709588
+#Cache accesses    = 249088
+#Cache hits        = 234483
+#Cache misses      = 14605
+#Cache hit rate    = 0.94137
+#Cache hit rate percentage    = 94.13661
+Cache Size: 4096B, Set Bits: 6, Associativity: 4, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3642024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1365988
+#Cache accesses    = 249088
+#Cache hits        = 237919
+#Cache misses      = 11169
+#Cache hit rate    = 0.95516
+#Cache hit rate percentage    = 95.51604
+Cache Size: 4096B, Set Bits: 6, Associativity: 4, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4267624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1991588
+#Cache accesses    = 249088
+#Cache hits        = 231663
+#Cache misses      = 17425
+#Cache hit rate    = 0.93004
+#Cache hit rate percentage    = 93.00448
+Cache Size: 4096B, Set Bits: 7, Associativity: 2, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4578724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2302688
+#Cache accesses    = 249088
+#Cache hits        = 228552
+#Cache misses      = 20536
+#Cache hit rate    = 0.91756
+#Cache hit rate percentage    = 91.75552
+Cache Size: 4096B, Set Bits: 7, Associativity: 2, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4661824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2385788
+#Cache accesses    = 249088
+#Cache hits        = 227721
+#Cache misses      = 21367
+#Cache hit rate    = 0.91422
+#Cache hit rate percentage    = 91.42191
+Cache Size: 4096B, Set Bits: 8, Associativity: 1, Block Bits: 4, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4661824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2385788
+#Cache accesses    = 249088
+#Cache hits        = 227721
+#Cache misses      = 21367
+#Cache hit rate    = 0.91422
+#Cache hit rate percentage    = 91.42191
+Cache Size: 4096B, Set Bits: 8, Associativity: 1, Block Bits: 4, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4566724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2290688
+#Cache accesses    = 249088
+#Cache hits        = 228672
+#Cache misses      = 20416
+#Cache hit rate    = 0.91804
+#Cache hit rate percentage    = 91.80370
+Cache Size: 4096B, Set Bits: 0, Associativity: 128, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3082824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 806788
+#Cache accesses    = 249088
+#Cache hits        = 243511
+#Cache misses      =  5577
+#Cache hit rate    = 0.97761
+#Cache hit rate percentage    = 97.76103
+Cache Size: 4096B, Set Bits: 0, Associativity: 128, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4310724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2034688
+#Cache accesses    = 249088
+#Cache hits        = 231232
+#Cache misses      = 17856
+#Cache hit rate    = 0.92831
+#Cache hit rate percentage    = 92.83145
+Cache Size: 4096B, Set Bits: 1, Associativity: 64, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3082824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 806788
+#Cache accesses    = 249088
+#Cache hits        = 243511
+#Cache misses      =  5577
+#Cache hit rate    = 0.97761
+#Cache hit rate percentage    = 97.76103
+Cache Size: 4096B, Set Bits: 1, Associativity: 64, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4105924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1829888
+#Cache accesses    = 249088
+#Cache hits        = 233280
+#Cache misses      = 15808
+#Cache hit rate    = 0.93654
+#Cache hit rate percentage    = 93.65365
+Cache Size: 4096B, Set Bits: 2, Associativity: 32, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3082824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 806788
+#Cache accesses    = 249088
+#Cache hits        = 243511
+#Cache misses      =  5577
+#Cache hit rate    = 0.97761
+#Cache hit rate percentage    = 97.76103
+Cache Size: 4096B, Set Bits: 2, Associativity: 32, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3981324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1705288
+#Cache accesses    = 249088
+#Cache hits        = 234526
+#Cache misses      = 14562
+#Cache hit rate    = 0.94154
+#Cache hit rate percentage    = 94.15387
+Cache Size: 4096B, Set Bits: 3, Associativity: 16, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3082724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 806688
+#Cache accesses    = 249088
+#Cache hits        = 243512
+#Cache misses      =  5576
+#Cache hit rate    = 0.97761
+#Cache hit rate percentage    = 97.76143
+Cache Size: 4096B, Set Bits: 3, Associativity: 16, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3920724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1644688
+#Cache accesses    = 249088
+#Cache hits        = 235132
+#Cache misses      = 13956
+#Cache hit rate    = 0.94397
+#Cache hit rate percentage    = 94.39716
+Cache Size: 4096B, Set Bits: 4, Associativity: 8, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3083624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 807588
+#Cache accesses    = 249088
+#Cache hits        = 243503
+#Cache misses      =  5585
+#Cache hit rate    = 0.97758
+#Cache hit rate percentage    = 97.75782
+Cache Size: 4096B, Set Bits: 4, Associativity: 8, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3895024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1618988
+#Cache accesses    = 249088
+#Cache hits        = 235389
+#Cache misses      = 13699
+#Cache hit rate    = 0.94500
+#Cache hit rate percentage    = 94.50034
+Cache Size: 4096B, Set Bits: 5, Associativity: 4, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3088424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 812388
+#Cache accesses    = 249088
+#Cache hits        = 243455
+#Cache misses      =  5633
+#Cache hit rate    = 0.97739
+#Cache hit rate percentage    = 97.73855
+Cache Size: 4096B, Set Bits: 5, Associativity: 4, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4007824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1731788
+#Cache accesses    = 249088
+#Cache hits        = 234261
+#Cache misses      = 14827
+#Cache hit rate    = 0.94047
+#Cache hit rate percentage    = 94.04749
+Cache Size: 4096B, Set Bits: 6, Associativity: 2, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4180724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1904688
+#Cache accesses    = 249088
+#Cache hits        = 232532
+#Cache misses      = 16556
+#Cache hit rate    = 0.93353
+#Cache hit rate percentage    = 93.35335
+Cache Size: 4096B, Set Bits: 6, Associativity: 2, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4239324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1963288
+#Cache accesses    = 249088
+#Cache hits        = 231946
+#Cache misses      = 17142
+#Cache hit rate    = 0.93118
+#Cache hit rate percentage    = 93.11809
+Cache Size: 4096B, Set Bits: 7, Associativity: 1, Block Bits: 5, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4239324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1963288
+#Cache accesses    = 249088
+#Cache hits        = 231946
+#Cache misses      = 17142
+#Cache hit rate    = 0.93118
+#Cache hit rate percentage    = 93.11809
+Cache Size: 4096B, Set Bits: 7, Associativity: 1, Block Bits: 5, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4461124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2185088
+#Cache accesses    = 249088
+#Cache hits        = 229728
+#Cache misses      = 19360
+#Cache hit rate    = 0.92228
+#Cache hit rate percentage    = 92.22765
+Cache Size: 4096B, Set Bits: 0, Associativity: 64, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2804824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 528788
+#Cache accesses    = 249088
+#Cache hits        = 246291
+#Cache misses      =  2797
+#Cache hit rate    = 0.98877
+#Cache hit rate percentage    = 98.87710
+Cache Size: 4096B, Set Bits: 0, Associativity: 64, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4230724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1954688
+#Cache accesses    = 249088
+#Cache hits        = 232032
+#Cache misses      = 17056
+#Cache hit rate    = 0.93153
+#Cache hit rate percentage    = 93.15262
+Cache Size: 4096B, Set Bits: 1, Associativity: 32, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2804824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 528788
+#Cache accesses    = 249088
+#Cache hits        = 246291
+#Cache misses      =  2797
+#Cache hit rate    = 0.98877
+#Cache hit rate percentage    = 98.87710
+Cache Size: 4096B, Set Bits: 1, Associativity: 32, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3974724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1698688
+#Cache accesses    = 249088
+#Cache hits        = 234592
+#Cache misses      = 14496
+#Cache hit rate    = 0.94180
+#Cache hit rate percentage    = 94.18037
+Cache Size: 4096B, Set Bits: 2, Associativity: 16, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2804924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 528888
+#Cache accesses    = 249088
+#Cache hits        = 246290
+#Cache misses      =  2798
+#Cache hit rate    = 0.98877
+#Cache hit rate percentage    = 98.87670
+Cache Size: 4096B, Set Bits: 2, Associativity: 16, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3836824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1560788
+#Cache accesses    = 249088
+#Cache hits        = 235971
+#Cache misses      = 13117
+#Cache hit rate    = 0.94734
+#Cache hit rate percentage    = 94.73399
+Cache Size: 4096B, Set Bits: 3, Associativity: 8, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2805224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 529188
+#Cache accesses    = 249088
+#Cache hits        = 246287
+#Cache misses      =  2801
+#Cache hit rate    = 0.98875
+#Cache hit rate percentage    = 98.87550
+Cache Size: 4096B, Set Bits: 3, Associativity: 8, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3769724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1493688
+#Cache accesses    = 249088
+#Cache hits        = 236642
+#Cache misses      = 12446
+#Cache hit rate    = 0.95003
+#Cache hit rate percentage    = 95.00337
+Cache Size: 4096B, Set Bits: 4, Associativity: 4, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2819624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 543588
+#Cache accesses    = 249088
+#Cache hits        = 246143
+#Cache misses      =  2945
+#Cache hit rate    = 0.98818
+#Cache hit rate percentage    = 98.81769
+Cache Size: 4096B, Set Bits: 4, Associativity: 4, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3839324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1563288
+#Cache accesses    = 249088
+#Cache hits        = 235946
+#Cache misses      = 13142
+#Cache hit rate    = 0.94724
+#Cache hit rate percentage    = 94.72395
+Cache Size: 4096B, Set Bits: 5, Associativity: 2, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3989724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1713688
+#Cache accesses    = 249088
+#Cache hits        = 234442
+#Cache misses      = 14646
+#Cache hit rate    = 0.94120
+#Cache hit rate percentage    = 94.12015
+Cache Size: 4096B, Set Bits: 5, Associativity: 2, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4035524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1759488
+#Cache accesses    = 249088
+#Cache hits        = 233984
+#Cache misses      = 15104
+#Cache hit rate    = 0.93936
+#Cache hit rate percentage    = 93.93628
+Cache Size: 4096B, Set Bits: 6, Associativity: 1, Block Bits: 6, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4035524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1759488
+#Cache accesses    = 249088
+#Cache hits        = 233984
+#Cache misses      = 15104
+#Cache hit rate    = 0.93936
+#Cache hit rate percentage    = 93.93628
+Cache Size: 4096B, Set Bits: 6, Associativity: 1, Block Bits: 6, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4880324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2604288
+#Cache accesses    = 249088
+#Cache hits        = 225536
+#Cache misses      = 23552
+#Cache hit rate    = 0.90545
+#Cache hit rate percentage    = 90.54471
+Cache Size: 4096B, Set Bits: 0, Associativity: 32, Block Bits: 7, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2665124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 389088
+#Cache accesses    = 249088
+#Cache hits        = 247688
+#Cache misses      =  1400
+#Cache hit rate    = 0.99438
+#Cache hit rate percentage    = 99.43795
+Cache Size: 4096B, Set Bits: 0, Associativity: 32, Block Bits: 7, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4151524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1875488
+#Cache accesses    = 249088
+#Cache hits        = 232824
+#Cache misses      = 16264
+#Cache hit rate    = 0.93471
+#Cache hit rate percentage    = 93.47058
+Cache Size: 4096B, Set Bits: 1, Associativity: 16, Block Bits: 7, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2665224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 389188
+#Cache accesses    = 249088
+#Cache hits        = 247687
+#Cache misses      =  1401
+#Cache hit rate    = 0.99438
+#Cache hit rate percentage    = 99.43755
+Cache Size: 4096B, Set Bits: 1, Associativity: 16, Block Bits: 7, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3888524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1612488
+#Cache accesses    = 249088
+#Cache hits        = 235454
+#Cache misses      = 13634
+#Cache hit rate    = 0.94526
+#Cache hit rate percentage    = 94.52643
+Cache Size: 4096B, Set Bits: 2, Associativity: 8, Block Bits: 7, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2665224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 389188
+#Cache accesses    = 249088
+#Cache hits        = 247687
+#Cache misses      =  1401
+#Cache hit rate    = 0.99438
+#Cache hit rate percentage    = 99.43755
+Cache Size: 4096B, Set Bits: 2, Associativity: 8, Block Bits: 7, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3752124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1476088
+#Cache accesses    = 249088
+#Cache hits        = 236818
+#Cache misses      = 12270
+#Cache hit rate    = 0.95074
+#Cache hit rate percentage    = 95.07403
+Cache Size: 4096B, Set Bits: 3, Associativity: 4, Block Bits: 7, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2710824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 434788
+#Cache accesses    = 249088
+#Cache hits        = 247231
+#Cache misses      =  1857
+#Cache hit rate    = 0.99254
+#Cache hit rate percentage    = 99.25448
+Cache Size: 4096B, Set Bits: 3, Associativity: 4, Block Bits: 7, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3793724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1517688
+#Cache accesses    = 249088
+#Cache hits        = 236402
+#Cache misses      = 12686
+#Cache hit rate    = 0.94907
+#Cache hit rate percentage    = 94.90702
+Cache Size: 4096B, Set Bits: 4, Associativity: 2, Block Bits: 7, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3911424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1635388
+#Cache accesses    = 249088
+#Cache hits        = 235225
+#Cache misses      = 13863
+#Cache hit rate    = 0.94434
+#Cache hit rate percentage    = 94.43450
+Cache Size: 4096B, Set Bits: 4, Associativity: 2, Block Bits: 7, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3963824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1687788
+#Cache accesses    = 249088
+#Cache hits        = 234701
+#Cache misses      = 14387
+#Cache hit rate    = 0.94224
+#Cache hit rate percentage    = 94.22413
+Cache Size: 4096B, Set Bits: 5, Associativity: 1, Block Bits: 7, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3963824
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1687788
+#Cache accesses    = 249088
+#Cache hits        = 234701
+#Cache misses      = 14387
+#Cache hit rate    = 0.94224
+#Cache hit rate percentage    = 94.22413
+Cache Size: 4096B, Set Bits: 5, Associativity: 1, Block Bits: 7, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5185524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2909488
+#Cache accesses    = 249088
+#Cache hits        = 222484
+#Cache misses      = 26604
+#Cache hit rate    = 0.89319
+#Cache hit rate percentage    = 89.31944
+Cache Size: 4096B, Set Bits: 0, Associativity: 16, Block Bits: 8, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2595224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 319188
+#Cache accesses    = 249088
+#Cache hits        = 248387
+#Cache misses      =   701
+#Cache hit rate    = 0.99719
+#Cache hit rate percentage    = 99.71857
+Cache Size: 4096B, Set Bits: 0, Associativity: 16, Block Bits: 8, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4156724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1880688
+#Cache accesses    = 249088
+#Cache hits        = 232772
+#Cache misses      = 16316
+#Cache hit rate    = 0.93450
+#Cache hit rate percentage    = 93.44970
+Cache Size: 4096B, Set Bits: 1, Associativity: 8, Block Bits: 8, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2595224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 319188
+#Cache accesses    = 249088
+#Cache hits        = 248387
+#Cache misses      =   701
+#Cache hit rate    = 0.99719
+#Cache hit rate percentage    = 99.71857
+Cache Size: 4096B, Set Bits: 1, Associativity: 8, Block Bits: 8, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3868124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1592088
+#Cache accesses    = 249088
+#Cache hits        = 235658
+#Cache misses      = 13430
+#Cache hit rate    = 0.94608
+#Cache hit rate percentage    = 94.60833
+Cache Size: 4096B, Set Bits: 2, Associativity: 4, Block Bits: 8, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2726424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 450388
+#Cache accesses    = 249088
+#Cache hits        = 247075
+#Cache misses      =  2013
+#Cache hit rate    = 0.99192
+#Cache hit rate percentage    = 99.19185
+Cache Size: 4096B, Set Bits: 2, Associativity: 4, Block Bits: 8, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3849224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1573188
+#Cache accesses    = 249088
+#Cache hits        = 235847
+#Cache misses      = 13241
+#Cache hit rate    = 0.94684
+#Cache hit rate percentage    = 94.68421
+Cache Size: 4096B, Set Bits: 3, Associativity: 2, Block Bits: 8, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3907324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1631288
+#Cache accesses    = 249088
+#Cache hits        = 235266
+#Cache misses      = 13822
+#Cache hit rate    = 0.94451
+#Cache hit rate percentage    = 94.45096
+Cache Size: 4096B, Set Bits: 3, Associativity: 2, Block Bits: 8, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3971324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1695288
+#Cache accesses    = 249088
+#Cache hits        = 234626
+#Cache misses      = 14462
+#Cache hit rate    = 0.94194
+#Cache hit rate percentage    = 94.19402
+Cache Size: 4096B, Set Bits: 4, Associativity: 1, Block Bits: 8, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3971324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1695288
+#Cache accesses    = 249088
+#Cache hits        = 234626
+#Cache misses      = 14462
+#Cache hit rate    = 0.94194
+#Cache hit rate percentage    = 94.19402
+Cache Size: 4096B, Set Bits: 4, Associativity: 1, Block Bits: 8, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 5032924
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2756888
+#Cache accesses    = 249088
+#Cache hits        = 224010
+#Cache misses      = 25078
+#Cache hit rate    = 0.89932
+#Cache hit rate percentage    = 89.93207
+Cache Size: 4096B, Set Bits: 0, Associativity: 8, Block Bits: 9, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 2560224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 284188
+#Cache accesses    = 249088
+#Cache hits        = 248737
+#Cache misses      =   351
+#Cache hit rate    = 0.99859
+#Cache hit rate percentage    = 99.85909
+Cache Size: 4096B, Set Bits: 0, Associativity: 8, Block Bits: 9, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4117324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1841288
+#Cache accesses    = 249088
+#Cache hits        = 233166
+#Cache misses      = 15922
+#Cache hit rate    = 0.93608
+#Cache hit rate percentage    = 93.60788
+Cache Size: 4096B, Set Bits: 1, Associativity: 4, Block Bits: 9, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3025024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 748988
+#Cache accesses    = 249088
+#Cache hits        = 244089
+#Cache misses      =  4999
+#Cache hit rate    = 0.97993
+#Cache hit rate percentage    = 97.99308
+Cache Size: 4096B, Set Bits: 1, Associativity: 4, Block Bits: 9, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4007324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1731288
+#Cache accesses    = 249088
+#Cache hits        = 234266
+#Cache misses      = 14822
+#Cache hit rate    = 0.94049
+#Cache hit rate percentage    = 94.04949
+Cache Size: 4096B, Set Bits: 2, Associativity: 2, Block Bits: 9, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3975624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1699588
+#Cache accesses    = 249088
+#Cache hits        = 234583
+#Cache misses      = 14505
+#Cache hit rate    = 0.94177
+#Cache hit rate percentage    = 94.17676
+Cache Size: 4096B, Set Bits: 2, Associativity: 2, Block Bits: 9, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4071624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1795588
+#Cache accesses    = 249088
+#Cache hits        = 233623
+#Cache misses      = 15465
+#Cache hit rate    = 0.93791
+#Cache hit rate percentage    = 93.79135
+Cache Size: 4096B, Set Bits: 3, Associativity: 1, Block Bits: 9, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4071624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1795588
+#Cache accesses    = 249088
+#Cache hits        = 233623
+#Cache misses      = 15465
+#Cache hit rate    = 0.93791
+#Cache hit rate percentage    = 93.79135
+Cache Size: 4096B, Set Bits: 3, Associativity: 1, Block Bits: 9, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4905424
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2629388
+#Cache accesses    = 249088
+#Cache hits        = 225285
+#Cache misses      = 23803
+#Cache hit rate    = 0.90444
+#Cache hit rate percentage    = 90.44394
+Cache Size: 4096B, Set Bits: 0, Associativity: 4, Block Bits: 10, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 3722724
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1446688
+#Cache accesses    = 249088
+#Cache hits        = 237112
+#Cache misses      = 11976
+#Cache hit rate    = 0.95192
+#Cache hit rate percentage    = 95.19206
+Cache Size: 4096B, Set Bits: 0, Associativity: 4, Block Bits: 10, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4521024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2244988
+#Cache accesses    = 249088
+#Cache hits        = 229129
+#Cache misses      = 19959
+#Cache hit rate    = 0.91987
+#Cache hit rate percentage    = 91.98717
+Cache Size: 4096B, Set Bits: 1, Associativity: 2, Block Bits: 10, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4144124
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1868088
+#Cache accesses    = 249088
+#Cache hits        = 232898
+#Cache misses      = 16190
+#Cache hit rate    = 0.93500
+#Cache hit rate percentage    = 93.50029
+Cache Size: 4096B, Set Bits: 1, Associativity: 2, Block Bits: 10, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4246024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1969988
+#Cache accesses    = 249088
+#Cache hits        = 231879
+#Cache misses      = 17209
+#Cache hit rate    = 0.93091
+#Cache hit rate percentage    = 93.09120
+Cache Size: 4096B, Set Bits: 2, Associativity: 1, Block Bits: 10, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4246024
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 1969988
+#Cache accesses    = 249088
+#Cache hits        = 231879
+#Cache misses      = 17209
+#Cache hit rate    = 0.93091
+#Cache hit rate percentage    = 93.09120
+Cache Size: 4096B, Set Bits: 2, Associativity: 1, Block Bits: 10, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4782324
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2506288
+#Cache accesses    = 249088
+#Cache hits        = 226516
+#Cache misses      = 22572
+#Cache hit rate    = 0.90938
+#Cache hit rate percentage    = 90.93814
+Cache Size: 4096B, Set Bits: 0, Associativity: 2, Block Bits: 11, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4364624
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2088588
+#Cache accesses    = 249088
+#Cache hits        = 230693
+#Cache misses      = 18395
+#Cache hit rate    = 0.92615
+#Cache hit rate percentage    = 92.61506
+Cache Size: 4096B, Set Bits: 0, Associativity: 2, Block Bits: 11, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4493224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2217188
+#Cache accesses    = 249088
+#Cache hits        = 229407
+#Cache misses      = 19681
+#Cache hit rate    = 0.92099
+#Cache hit rate percentage    = 92.09878
+Cache Size: 4096B, Set Bits: 1, Associativity: 1, Block Bits: 11, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4493224
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2217188
+#Cache accesses    = 249088
+#Cache hits        = 229407
+#Cache misses      = 19681
+#Cache hit rate    = 0.92099
+#Cache hit rate percentage    = 92.09878
+Cache Size: 4096B, Set Bits: 1, Associativity: 1, Block Bits: 11, Policy: LRU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4573524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2297488
+#Cache accesses    = 249088
+#Cache hits        = 228604
+#Cache misses      = 20484
+#Cache hit rate    = 0.91776
+#Cache hit rate percentage    = 91.77640
+Cache Size: 4096B, Set Bits: 0, Associativity: 1, Block Bits: 12, Policy: LFU
+
+========
+[MAIN]: Flushing pipeline
+========
+#Cycles            = 4573524
+#Forwards (EX-EX)  = 767254
+#Forwards (EX-MEM) = 485634
+#Branches taken    = 78112
+#Stalls            = 208128
+#MEM   stalls      = 2297488
+#Cache accesses    = 249088
+#Cache hits        = 228604
+#Cache misses      = 20484
+#Cache hit rate    = 0.91776
+#Cache hit rate percentage    = 91.77640
+Cache Size: 4096B, Set Bits: 0, Associativity: 1, Block Bits: 12, Policy: LRU
